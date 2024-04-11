@@ -1,4 +1,4 @@
-## Hackathon Challenge: Urban Innovation with Open Data
+## Hackathon Challenge 1: Urban Innovation with Open Data
 ---
 
 ### Introduction
