@@ -39,4 +39,5 @@ A Jupyter Notebook template is available to help initiate your project. It inclu
 - **Data-Driven Policy Recommendations**: Use insights derived from the datasets to inform policy changes or city planning initiatives.
 
 ---
-Embrace this chance to contribute to a more sustainable, safe, and high-quality urban environment. Your forward-thinking solutions could lead the way in shaping the future of city living. Good luck, and we're excited to see your innovative ideas in action! Happy Hacking!
+
+Good luck, and we're excited to see your innovative ideas in action! Happy Hacking!
