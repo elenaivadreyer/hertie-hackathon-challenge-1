@@ -12,6 +12,9 @@ Your task is to leverage data science in uncovering insights and developing solu
 - **Air Pollution Data (2021)**: Air quality measurements from official monitoring stations throughout Berlin.
 - **Urban Infrastructure Data**: Comprehensive data on Berlin's cycling infrastructure, providing insights into the current state of cycling paths and facilities.
 
+#### Note
+If you are interested in the whole data generation and cleaning process, have a look at [this notebook](https://github.com/elenaivadreyer/hertie-hackathon-challenge-1/blob/main/data-preparation.ipynb). In general, more detailed information about the dataset, sources and documentation can be found in the Hacker's Manual.
+
 ### Deliverables
 - A **Jupyter Notebook** containing your analysis, visualizations, and any models or algorithms developed.
 - A **Presentation** summarizing your findings, your proposed solution(s), and their potential impact. Highlight the creativity and data-driven approach behind your project.
