@@ -2,18 +2,18 @@
 ---
 
 ### Introduction
-Welcome to an engaging hackathon journey where your creativity and data science capabilities unite for the greater good! In collaboration with Technologiestiftung/CityLab Berlin, we present a challenge that dives into the diverse and rich datasets capturing the essence of urban life in Berlin. Our goal is to harness these datasets to improve various aspects of urban living, with a special emphasis on environmental sustainability, public safety, and enhancing the quality of life for all Berliners.
+Welcome to an engaging hackathon journey where your creativity and data science capabilities unite for the greater good! In collaboration with Technologiestiftung/ CityLab Berlin, we present a challenge that dives into the diverse and rich datasets capturing the essence of urban life in Berlin. The goal is to harness these datasets to improve various aspects of urban living, with a special emphasis on environmental sustainability, public safety, and enhancing the quality of life for all Berliners.
 
 ### Challenge Overview
-Your task is to leverage data science in uncovering insights and developing solutions that address the multifaceted challenges of urban living. While you have access to detailed datasets on accidents, air quality, and cycling infrastructure, we encourage you to think broadly. Your challenge is to ideate, analyze, and prototype solutions that contribute to making Berlin a safer, greener, and more livable city for everyone.
+Your task is to leverage data science methods in uncovering insights and developing solutions that address the multifaceted challenges of urban living. While you have access to detailed datasets on accidents, air quality, and cycling infrastructure, we encourage you to think broadly. Your challenge is to ideate, analyze, and prototype solutions that contribute to making Berlin a safer, greener, and more livable city for everyone.
 
 ### Data Sources
 - **Accidents in Berlin (2021)**: Detailed records of road accidents, including geolocation data.
 - **Air Pollution Data (2021)**: Air quality measurements from official monitoring stations throughout Berlin.
-- **Urban Infrastructure Data**: Comprehensive data on Berlin's cycling infrastructure, providing insights into the current state of cycling paths and facilities.
+- **Urban Infrastructure Data**: Data on existing cycling routes throughout the city, offering insights into Berlin's cycling infrastructure.
 
 #### Note
-If you are interested in the whole data generation and cleaning process, have a look at [this notebook](https://github.com/elenaivadreyer/hertie-hackathon-challenge-1/blob/main/data-preparation.ipynb). In general, more detailed information about the dataset, sources and documentation can be found in the Hacker's Manual.
+If you are interested in the whole data generation and cleaning process, have a look at [this notebook](https://github.com/elenaivadreyer/hertie-hackathon-challenge-1/blob/main/data-preparation.ipynb). In general, more detailed information about the dataset, sources, and documentation can be found in the Hacker's Manual.
 
 ### Deliverables
 - A **Jupyter Notebook** containing your analysis, visualizations, and any models or algorithms developed.
