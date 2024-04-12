@@ -5,7 +5,7 @@
 Welcome to an engaging hackathon journey where your creativity and data science capabilities unite for the greater good! In collaboration with Technologiestiftung/ CityLab Berlin, we present a challenge that dives into the diverse and rich datasets capturing the essence of urban life in Berlin. The goal is to harness these datasets to improve various aspects of urban living, with a special emphasis on environmental sustainability, public safety, and enhancing the quality of life for all Berliners.
 
 ### Challenge Overview
-Your task is to leverage data science methods in uncovering insights and developing solutions that address the multifaceted challenges of urban living. While you have access to detailed datasets on accidents, air quality, and cycling infrastructure, we encourage you to think broadly. Your challenge is to ideate, analyze, and prototype solutions that contribute to making Berlin a safer, greener, and more livable city for everyone.
+Your task is to leverage data science methods in uncovering insights and developing solutions that address the multifaceted challenges of urban living. While you have access to detailed datasets on accidents, air quality, and cycling infrastructure, we encourage you to think broadly. Your challenge is to design, explore, and prototype solutions that help make Berlin a safer, greener, and more livable city for everyone.
 
 ### Data Sources
 - **Accidents in Berlin (2021)**: Detailed records of road accidents, including geolocation data.
