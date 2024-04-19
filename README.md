@@ -40,4 +40,4 @@ A Jupyter Notebook template is available to help initiate your project. It inclu
 
 ---
 
-Good luck, and we're excited to see your innovative ideas in action! Happy Hacking!
+Good luck, and we're excited to see your innovative ideas! Happy Hacking!
